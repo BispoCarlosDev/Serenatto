@@ -59,3 +59,7 @@ input[type="checkbox"]:focus {
 .input-range::-webkit-slider-thumb {
   background-color: var(--marrom-claro);
 }
+
+.fundo-marrom {
+  background-color: var(--marrom-claro);
+}
